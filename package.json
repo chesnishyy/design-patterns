@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "design patterns typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesnishyy/design-patterns.git"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "typescript"
+  ],
+  "author": "i.chesnishyy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chesnishyy/design-patterns/issues"
+  },
+  "homepage": "https://github.com/chesnishyy/design-patterns#readme"
+}
